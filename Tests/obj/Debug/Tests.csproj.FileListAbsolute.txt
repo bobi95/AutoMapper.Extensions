@@ -1,0 +1,13 @@
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\Tests.exe.config
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\Tests.exe
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\Tests.pdb
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\AutoMapper.dll
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\AutoMapper.Extensions.dll
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\AutoMapper.Extensions.pdb
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\bin\Debug\AutoMapper.xml
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\obj\Debug\Tests.exe
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\Tests\obj\Debug\Tests.pdb
+C:\Users\borislav.rangelov\Desktop\Repositories\Github\AutoMapper.Extensions\Tests\bin\Debug\Tests.exe.config
+C:\Users\borislav.rangelov\Desktop\Repositories\Github\AutoMapper.Extensions\Tests\obj\Debug\Tests.exe
+C:\Users\borislav.rangelov\Desktop\Repositories\Github\AutoMapper.Extensions\Tests\obj\Debug\Tests.pdb

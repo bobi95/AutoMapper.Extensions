@@ -1,0 +1,7 @@
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\bin\Debug\AutoMapper.Extensions.dll
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\bin\Debug\AutoMapper.Extensions.pdb
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\bin\Debug\AutoMapper.dll
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\bin\Debug\AutoMapper.xml
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\obj\Debug\AutoMapper.Extensions.csprojResolveAssemblyReference.cache
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\obj\Debug\AutoMapper.Extensions.dll
+c:\users\borislav.rangelov\documents\visual studio 2015\Projects\AutoMapper.Extensions\AutoMapper.Extensions\obj\Debug\AutoMapper.Extensions.pdb
